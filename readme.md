@@ -1,3 +1,5 @@
+Note: this is my fork of openai/spinningup, with the experiments and notebooks I have created while trying to learn the material.
+
 **Status:** Maintenance (expect bug fixes and minor updates)
 
 Welcome to Spinning Up in Deep RL! 
