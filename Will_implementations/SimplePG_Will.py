@@ -1,5 +1,5 @@
 # @author William Berdanier
-# This is an implementation of VPG closely following the one in the introduction section.
+# This is an implementation of Simple Policy Gradient closely following the one in the introduction section.
 
 import torch
 import torch.nn as nn
